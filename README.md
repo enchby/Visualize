@@ -4,4 +4,6 @@
 ![棒グラフ](https://github.com/enchby/Visualize/blob/master/data/bar_graph.png)
 ### 相関ヒートマップ
 ![相関ヒートマップ](https://github.com/enchby/Visualize/blob/master/data/Correlation_Matrix_Heatmap.png)
+### WordCloud
+![wordcloud](https://github.com/enchby/Visualize/blob/master/data/wordcloud.png)
 
